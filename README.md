@@ -7,7 +7,7 @@ The module can only run in DNN versions gretaer than 7.2.1
 
 Features:
 - client side rendering, if enabled in modulesettings
-- auto-refresh (only in clinet side mode)
+- auto-refresh (only in client side mode)
 - fully template based
 
 
