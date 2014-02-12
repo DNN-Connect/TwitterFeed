@@ -12,3 +12,5 @@ Features:
 
 
 Note that you must sign up for a Twitter API key in order to use that module. You may do so on https://dev.twitter.com/. It's free and only takes minutes.
+
+If you want to see the module in action, visit http://dnn-connect.org/community.
