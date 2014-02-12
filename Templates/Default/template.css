@@ -1,0 +1,18 @@
+﻿.connect-twitterfeed-item               { margin: 0 0 10px 0; background: #fff; padding: 10px;}
+.connect-twitterfeed-item.alternate     { background: #eee; }
+.connect-twitterfeed-profilepic         { width: 15%; float:left; }
+.connect-twitterfeed-profilepic img     { padding: 2px; background: #fff; border: 1px solid #ccc; width: 100%; margin: 6px 0 0 0; }
+.connect-twitterfeed-content            { width: 70%; float: left; margin: 0 0 0 5%; }
+.connect-twitterfeed-content p          { margin: 0; padding: 0 0 5px 0; color: #333; font-size: 12px; }
+.connect-twitterfeed-content p img      { width: 100%; max-width: 250px; margin: 0;}
+.connect-twitterfeed-content p a        { color: #4a95e8; text-decoration: none; font-size: 12px; }
+.connect-twitterfeed-content p a:hover  { color: #333; text-decoration: underline; }
+.connect-twitterfeed-author             { padding: 5px 0 0 0; clear:both;}
+.connect-twitterfeed-author span, 
+.connect-twitterfeed-author span a      { font-size: 10px; }
+.connect-twitterfeed-author span        { color: #000; }
+.connect-twitterfeed-author span a      { color: #4a95e8; text-decoration: none; }
+.connect-twitterfeed-author span a:hover{ color: #333; text-decoration: underline; }
+.connect-twitterfeed-footer             { padding: 10px 0 20px 10px; }
+.connect-twitterfeed-footer a           { background: #00aced url(images/twitter.png) 5px 5px no-repeat; font-size: 14px; color: #fff; text-decoration: none; padding: 5px 10px 5px 30px; }
+.connect-twitterfeed-footer a:hover     { color: #333; }

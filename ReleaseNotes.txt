@@ -1,0 +1,14 @@
+﻿<h3>TwitterFeed</h3>
+<p class="Contributor">
+	dnn-connect.org<br />
+	<a href="mailto:module.twitterfeed@dnn-connect.org">module.twitterfeed@dnn-connect.org</a><br />
+	<a href=http://dnn-connect.org>http://dnn-connect.org</a>
+</p>
+<hr/>
+<div class="License">
+	<h3>About TwitterFeed</h3>
+	<p class="Owner">
+		<b>Version 00.00.01</b>
+	</p>
+	<p>Initial release of the module</p>	
+</div>
