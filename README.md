@@ -3,6 +3,8 @@ TwitterFeed
 
 A module to display twitter feeds on your DNN site
 
+The module has been inspired and partially ported from the work of Thorsten Weggen on his great new module. See https://bbnews.codeplex.com for more information.
+
 The module can only run in DNN versions gretaer than 7.2.1
 
 Features:
