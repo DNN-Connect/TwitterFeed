@@ -1,3 +1,5 @@
+** This project is no longer actively maintained. Use at own risk. **
+
 TwitterFeed
 ===========
 
